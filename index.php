@@ -15,12 +15,12 @@
 		<div class="row">
 			<div class= "col-md-8">
 			<h3> In 2+ sentences describe who you are and what you do </h3>
-			<p>I am from Mexico, and I moved to Boston since January. I am currently doing home office for a travel agency located in Mexico.
-			<br/> As well, I am taking the Web Technologies certificate at the Harvard Extension School. This certificate is my first experience with
-			<br/> web development.</p>
+			<p>I am from Mexico, and I moved to Boston since January. I am currently doing home office for a travel agency located in Mexico. 
+			As well, I am taking the Web Technologies certificate at the Harvard Extension School. This certificate is my first experience 
+			with web development.</p>
 			<h3> Why are you taking this course?</h3>
 			<p>I am taking this course as part of the Web Technologies certificate. I am interested in this certificate because I want to learn
-			<br/> more about web development, in order for me to be able to start my own business</p>
+			more about web development, in order for me to be able to start my own business</p>
 			<h3>What previous experience do you have with HTML/CSS?</h3>
 			<p>My first experience and only with HTML/CSS was in the previous course Fundamentals of Website Development</p>
 			<h3>Have you worked with PHP before? If so, to what extent?</h3>
