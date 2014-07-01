@@ -7,7 +7,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- CSS -->
-    <link href="Bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Css/Bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="Css/style.css" rel="stylesheet">
+	
 </head>
 
 <body>
@@ -35,6 +37,8 @@
 			</div>
 			<div class="col-md-4">
 			<p> <img src="Images/Ana_Paula.jpg" alt= "Ana Paula Photo" /> </p>
+			<p class ="quote">“ It's not at all important to get it right the first time. It's vitally important to get it right the last time.” 
+			<br/>- Andrew Hunt and David Thomas </p>
 			</div>
 		</div>
 	</div>
