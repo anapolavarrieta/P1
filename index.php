@@ -11,7 +11,10 @@
 </head>
 
 <body>
-	<div class="container">
+	<div class="container-fluid">
+		<p class="bg-primary">
+			Ana Paula Olavarrieta Paulsen
+		</p>
 		<div class="row">
 			<div class= "col-md-8">
 			<h3> In 2+ sentences describe who you are and what you do </h3>
@@ -22,9 +25,9 @@
 			<p>I am taking this course as part of the Web Technologies certificate. I am interested in this certificate because I want to learn
 			more about web development, in order for me to be able to start my own business</p>
 			<h3>What previous experience do you have with HTML/CSS?</h3>
-			<p>My first experience and only with HTML/CSS was in the previous course Fundamentals of Website Development</p>
+			<p>My first and only experience with HTML/CSS was in the previous course: Fundamentals of Website Development</p>
 			<h3>Have you worked with PHP before? If so, to what extent?</h3>
-			<p>I have work a little bit with PHP in last course, but really basic. I am eager to learn much more bout it</p>
+			<p>I have work a little bit with PHP in last course, but really basic. I am eager to learn much more about it</p>
 			<h3>Are you working on a Mac,PC or other platform? </h3>
 			<p>I am working on a PC</p>
 			<h3>Anything else we should know </h3>
