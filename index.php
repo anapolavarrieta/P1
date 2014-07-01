@@ -37,7 +37,7 @@
 			</div>
 			<div class="col-md-4">
 			<p> <img src="Images/Ana_Paula.jpg" alt= "Ana Paula Photo" /> </p>
-			<p class ="quote">“ It's not at all important to get it right the first time. It's vitally important to get it right the last time.” 
+			<p class="quote">“ It's not at all important to get it right the first time. It's vitally important to get it right the last time.” 
 			<br/>- Andrew Hunt and David Thomas </p>
 			</div>
 		</div>
